@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/HeackMT5-ZhSum100k" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IDEA-CCNL/Randeng-Pegasus-238M-Summary-Chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IDEACCNL/Randeng-Pegasus-238M-Summary-Chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Randeng-Pegasus-238M-Summary-Chinese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_news/Model/heack/HeackMT5-ZhSum100k" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heack/HeackMT5-ZhSum100k" vcs="Git" />
+  </component>
+</project>
