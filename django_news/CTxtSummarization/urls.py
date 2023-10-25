@@ -18,5 +18,6 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path("TextSummarization/",views.TextSummarization,name="TextSummarization")
+    path("TextSummarization/",views.TextSummarization,name="TextSummarization"),
+    path("TextClassify/",views.TextClassify,name="TextClassify")
 ]
